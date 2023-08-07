@@ -1,11 +1,11 @@
 /* User Id ; User Name; Age; Followers; image/Bio */
 
-11.Will jones:16:Newyork:1000:src/Task7/profilePic/11.jpg:Student
-12:Smith Webster:17:Newyork:10000:src/Task7/profilePic/12.jpg:Artist
-13:Rose Lie:31:seoul:1500000:src/Task7/profilePic/13.jpg:Celebrity
-15:Ashwin Maharjan:22:Pokhara:19000:src/Task7/profilePic/14.jpg:Tiktoker
-16:Neema Gurung:29:lumbini:120:src/Task7/profilePic/15.jpg:Labor
-17:Mohommad Ayuub:29:Pakistan:15000:src/Task7/profilePic/16.jpg:Cheif
-18:Ruby Ryan:33:Fairhill:16000:src/Task7/profilePic/17.jpg:Influencer
-19:Hikmat saud:40:Mahendranagar:200:src/Task7/profilePic/18.jpg:Teacher
-20:Rocky jackson:19:ottawa:1260:src/Task7/profilePic/19.jpg:Musician
+1.Will jones:16:Newyork:1000:src/Task7/profilePic/1.png:Student
+2:Smith Webster:17:Newyork:10000:src/Task7/profilePic/1.png:Artist
+3:Rose Lie:31:seoul:1500000:src/Task7/profilePic/1.png:Celebrity
+5:Ashwin Maharjan:22:Pokhara:19000:src/Task7/profilePic/1.png:Tiktoker
+6:Neema Gurung:29:lumbini:120:src/Task7/profilePic/1.png:Labor
+7:Mohommad Ayuub:29:Pakistan:15000:src/Task7/profilePic/1.png:Cheif
+8:Ruby Ryan:33:Fairhill:16000:src/Task7/profilePic/1.png:Influencer
+9:Hikmat saud:40:Mahendranagar:200:src/Task7/profilePic/1.png:Teacher
+10:Rocky jackson:19:ottawa:1260:src/Task7/profilePic/1.png:Musician
